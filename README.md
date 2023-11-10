@@ -1,1 +1,21 @@
-# 12
+# 12 лекция Юрчик
+
+![file-0](https://github.com/YuchikMatvei/12/assets/149879459/f510ada1-200c-4c9a-ba6e-d61846e14f43)
+![file-1](https://github.com/YuchikMatvei/12/assets/149879459/28e32e1e-c6d9-41cf-bc92-37219b195ee0)
+![file-2](https://github.com/YuchikMatvei/12/assets/149879459/dac0cce7-5aae-44c4-9526-cb260f756279)
+![file-3](https://github.com/YuchikMatvei/12/assets/149879459/b9a455a3-ee45-47ab-8fa5-a0a1f5b1696a)
+![file-4](https://github.com/YuchikMatvei/12/assets/149879459/d3237458-7790-42a8-bc7d-258929fee62d)
+![file-5](https://github.com/YuchikMatvei/12/assets/149879459/b7cb793d-b57f-440d-9ca7-adbf4763e06c)
+![file-6](https://github.com/YuchikMatvei/12/assets/149879459/0b94eddc-c9a3-4e70-b74e-9e0eca0ce7ac)
+![file-7](https://github.com/YuchikMatvei/12/assets/149879459/41d1ce85-de54-477d-a18d-c852945d5963)
+![file-8](https://github.com/YuchikMatvei/12/assets/149879459/f7d41640-d72c-4960-b5be-9bd9bc7304ad)
+![file-9](https://github.com/YuchikMatvei/12/assets/149879459/adad26c4-1467-41f1-88db-e5277fc5ca64)
+![file-10](https://github.com/YuchikMatvei/12/assets/149879459/644c055d-9ec7-466d-8036-799052b6b939)
+![file-11](https://github.com/YuchikMatvei/12/assets/149879459/c97bed9b-5e4c-4dea-a946-40d950af541f)
+![file-12](https://github.com/YuchikMatvei/12/assets/149879459/dc50cf0f-889f-47c8-a87c-5cecaf4c882e)
+![file-13](https://github.com/YuchikMatvei/12/assets/149879459/b1169d2a-1c36-4f4a-8e1a-17990e88e403)
+![file-14](https://github.com/YuchikMatvei/12/assets/149879459/5703679f-7e20-4a41-ae82-9a6bc0f4a6d0)
+![file-15](https://github.com/YuchikMatvei/12/assets/149879459/69536af5-525d-45bd-bf79-2d7c96e29fbd)
+![file-16](https://github.com/YuchikMatvei/12/assets/149879459/ad14ba6f-eb88-4599-ac7d-1af7b294324a)
+![file-17](https://github.com/YuchikMatvei/12/assets/149879459/7fe43219-1738-45a9-833b-a460fabd6238)
+![file-18](https://github.com/YuchikMatvei/12/assets/149879459/c506f63f-8e6b-4a89-b146-b8b25c371dbe)
